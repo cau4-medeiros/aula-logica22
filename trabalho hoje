@@ -1,0 +1,9 @@
+# Imprimir números de 0 a 4
+for i range(5):
+    print(i)
+
+print("--------------------")
+
+# Impremir número de 1 a 5
+for j in range(2, 8):
+    print(j) 
